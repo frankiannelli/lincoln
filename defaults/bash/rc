@@ -1,0 +1,4 @@
+source ~/.local/share/lincoln/defaults/bash/shell
+source ~/.local/share/lincoln/defaults/bash/aliases
+source ~/.local/share/lincoln/defaults/bash/prompt
+source ~/.local/share/lincoln/defaults/bash/init
